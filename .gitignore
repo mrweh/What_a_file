@@ -1,0 +1,12 @@
+#comments folder bin and cmd
+bin/
+cmd/
+#txt-files
+docs/*.txt
+mingw64/
+dev/
+etc/
+tmp/
+usr/
+RealeaseNotes.html
+.vscode/
